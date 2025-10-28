@@ -30,7 +30,7 @@ Explore the Reestar page layout and design
 
 PREVIEW
 
-(Add a screenshot here if you want to show how the website looks)
+([Add a screenshot here if you want to show how the website looks](https://keerthika042-ux.github.io/Reestar-webpage/))
 
 AUTHOR
 Developed by [KEERTHIKA P] as a simple front-end project to practice web design fundamentals.# Reestar-webpage
